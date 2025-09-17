@@ -4,4 +4,4 @@
 
 - Raspberry image writer (custom image)
  
-- If OpenWrt sd card retains old config -> just do a full format and write image using raspberry image writer (custom image)
+- If OpenWrt sd card retains old config -> just do a **Full format** instead of Quick Format and write image using raspberry image writer (custom image)
